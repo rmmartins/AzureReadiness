@@ -9,7 +9,7 @@ List of usefull links to enable you to learn more about OpenSouce at Azure
 * [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX.
 * [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
 * [ITProCareerCenter](https://www.itprocareercenter.com) - IT Pro Career Center from Microsoft
-* [ITProCloudEssentials](www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
+* [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
 
 ---
 
