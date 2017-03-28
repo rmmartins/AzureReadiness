@@ -5,7 +5,7 @@ Feel free to contribute !
 ### Learning and Readiness
 List of usefull links to enable you to learn more about OpenSouce at Azure
 
-* [Microsoft OpenEDS](https://openedx.microsoft.com/) - The OpenEDX from Microsoft
+* [Microsoft OpenEDX](https://openedx.microsoft.com/) - The OpenEDX from Microsoft
 * [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX.
 * [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
 * [ITProCareerCenter](https://www.itprocareercenter.com) - IT Pro Career Center from Microsoft
