@@ -1,4 +1,4 @@
-# Azure OpenSource Resources
+# Azure Readiness Resources
 The purpose of this repo is to serve as a curated list of readiness resources on Microsoft Azure.
 Feel free to contribute !
 
