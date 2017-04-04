@@ -13,10 +13,10 @@ List of usefull links to enable you to learn more about OpenSouce at Azure
 * [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
 
 ### Useful PDFs
-* [A cloud for a global good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
+* [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
 * [Azure Network Security](http://download.microsoft.com/download/C/A/3/CA3FC5C0-ECE0-4F87-BF4B-D74064A00846/AzureNetworkSecurity_v3_Feb2015.pdf)
 * [Defending the new perimeter](https://rmartins.blob.core.windows.net/documentos/DefendingTheNewPerimeter.pdf)
-* [Azure Express Route](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureExpressRoute.pdf)
+* [Azure Express Route Guide](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureExpressRoute.pdf)
 * [Microsoft Azure Security Infrastructure](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityInfrastructure.pdf)
 * [Microsoft Azure Security Response in the cloud](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityResponseinthecloud.pdf)
 * [Microsoft Cloud Red Teaming](https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf)
