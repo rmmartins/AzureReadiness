@@ -3,7 +3,7 @@ The purpose of this repo is to serve as a curated list of readiness resources on
 Feel free to contribute !
 
 ### Learning and Readiness
-List of usefull links to enable you to learn more about OpenSouce at Azure
+List of usefull links to enable you to learn more about Azure
 
 * [Azure Skills Training](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx) - Free Training!
 * [Microsoft OpenEDX](https://openedx.microsoft.com/) - The OpenEDX from Microsoft
