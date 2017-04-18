@@ -11,6 +11,7 @@ List of usefull links to enable you to learn more about Azure
 * [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
 * [ITProCareerCenter](https://www.itprocareercenter.com) - IT Pro Career Center from Microsoft
 * [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
+* [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/) - Learning paths to guide yourself through the documentation
 
 ### Useful PDFs
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
