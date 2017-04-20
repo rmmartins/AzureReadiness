@@ -13,6 +13,11 @@ List of usefull links to enable you to learn more about Azure
 * [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
 * [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/) - Learning paths to guide yourself through the documentation
 * [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - A new way to learn the skills and get the hands-on experience
+* [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates) - Github Repo with usefull Azure templates
+* [Azure Readiness Repo](https://github.com/Azure-Readiness) - Github Repo with labs, samples and demos
+* [Awesome Azure Advanced Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics) - Awesome repo with several topics on Azure Advanved Analytics
+* [Azure DevTestLabs artifacts](https://github.com/Azure/azure-devtestlab) - Github repo with devtestlabs artifacts
+* [Azure OpenSource Labs](https://github.com/Microsoft-OpenSource-Labs) - Github repo with opensource labs on Azure
 
 ### Useful PDFs
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
