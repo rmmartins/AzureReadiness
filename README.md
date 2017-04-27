@@ -18,8 +18,8 @@ List of usefull links to enable you to learn more about Azure
 * [Awesome Azure Advanced Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics) - Awesome repo with several topics on Azure Advanved Analytics
 * [Azure DevTestLabs artifacts](https://github.com/Azure/azure-devtestlab) - Github repo with devtestlabs artifacts
 * [Azure OpenSource Labs](https://github.com/Microsoft-OpenSource-Labs) - Github repo with opensource labs on Azure
-* [Resource Manager Template Referente](https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/)
-* [Azure Architecture Reference Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [Resource Manager Template Reference](https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/) - References to ARM Templates
+* [Azure Architecture Reference Center](https://docs.microsoft.com/en-us/azure/architecture/) - Azure Architecture Reference Center
 
 ### Useful PDFs
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
