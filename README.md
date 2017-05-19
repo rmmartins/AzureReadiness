@@ -20,6 +20,8 @@ List of usefull links to enable you to learn more about Azure
 * [Azure OpenSource Labs](https://github.com/Microsoft-OpenSource-Labs) - Github repo with opensource labs on Azure
 * [Resource Manager Template Reference](https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/) - References to ARM Templates
 * [Azure Architecture Reference Center](https://docs.microsoft.com/en-us/azure/architecture/) - Azure Architecture Reference Center
+* [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
+* [Get started guide for Azure developers](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf) - Get started guide for Azure developers
 
 ### Useful PDFs
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
