@@ -22,6 +22,8 @@ List of usefull links to enable you to learn more about Azure
 * [Azure Architecture Reference Center](https://docs.microsoft.com/en-us/azure/architecture/) - Azure Architecture Reference Center
 * [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
 * [Get started guide for Azure developers](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf) - Get started guide for Azure developers
+* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/)
 
 ### Useful PDFs
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
