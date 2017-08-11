@@ -5,6 +5,7 @@ Feel free to contribute !
 ### Learning and Readiness
 List of usefull links to enable you to learn more about Azure
 
+* [Azure Training](https://azure.microsoft.com/en-us/training/) - Pluralsight free cources, hands-on labs and learning paths for you!
 * [Azure Skills Training](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx) - Free Training!
 * [Microsoft OpenEDX](https://openedx.microsoft.com/) - The OpenEDX from Microsoft
 * [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX
