@@ -23,8 +23,12 @@ List of usefull links to enable you to learn more about Azure
 * [Azure Architecture Reference Center](https://docs.microsoft.com/en-us/azure/architecture/) - Azure Architecture Reference Center
 * [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
 * [Get started guide for Azure developers](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf) - Get started guide for Azure developers
-* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
-* [Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/)
+* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) - Architecture resources
+* [Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) - Architecture resilicency resources
+* [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+* [Introduction to Microsoft Azure accounts, platform, and services for AWS experts](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/index) - Azure for AWS experts
+* [Azure for AWS Professionals](https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/) - Learning path for AWS Professionals
+* [Microsoft Azure for AWS Experts](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/about) - EDX Free Training
 
 ### Useful PDFs
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
