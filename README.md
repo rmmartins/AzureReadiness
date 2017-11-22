@@ -5,7 +5,8 @@ Feel free to contribute !
 ### Learning and Readiness
 List of usefull links to enable you to learn more about Azure
 
-* [HandsOnLabs] (https://www.microsoft.com/handsonlabs) - Microsoft HandsOnLabs
+* [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
+* [HandsOnLabs](https://www.microsoft.com/handsonlabs) - Microsoft HandsOnLabs
 * [Microsoft Tech](https://www.microsofttech.com.br/) - Microsoft Tech Blog (PT-BR)
 * [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
 * [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
@@ -13,8 +14,8 @@ List of usefull links to enable you to learn more about Azure
 * [Microsoft DevOps Blog](https://blogs.msdn.microsoft.com/devops/) - Microsoft DevOps Blog
 * [Azure Training](https://azure.microsoft.com/en-us/training/) - Pluralsight free cources, hands-on labs and learning paths for you!
 * [Azure Skills Training](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx) - Free Training!
-* [Microsoft OpenEDX](https://openedx.microsoft.com/) - The OpenEDX from Microsoft
 * [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX
+* [Microsoft OpenEDX](https://openedx.microsoft.com/) - The OpenEDX from Microsoft
 * [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
 * [ITProCareerCenter](https://www.itprocareercenter.com) - IT Pro Career Center from Microsoft
 * [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
@@ -29,12 +30,32 @@ List of usefull links to enable you to learn more about Azure
 * [Azure Architecture Reference Center](https://docs.microsoft.com/en-us/azure/architecture/) - Azure Architecture Reference Center
 * [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
 * [Get started guide for Azure developers](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf) - Get started guide for Azure developers
+* [Microsoft Virtual Academy (Azure Courses)](https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033)
+* [Microsoft Virtual Academy (Visual Studio Courses)](https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033)
+* [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
+* [Understanding Azure: A guide for developers](http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf)
+
+
+### Architecture
+
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) - Architecture resources
 * [Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) - Architecture resilicency resources
+
+### Azure for AWS Professionals
+
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [Introduction to Microsoft Azure accounts, platform, and services for AWS experts](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/index) - Azure for AWS experts
-* [Azure for AWS Professionals](https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/) - Learning path for AWS Professionals
-* [Microsoft Azure for AWS Experts](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/about) - EDX Free Training
+* [Azure for AWS Professionals - Learning Path](https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/) - Learning path for AWS Professionals
+* [Microsoft Azure for AWS Experts - EDX Course](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/about) - EDX Free Training
+* [Azure for AWS Professionals](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)
+* [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+* [(Part 1) Microsoft Azure for Amazon AWS Cloud Professionals: Getting Started](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1667)
+* [(Part 2) Microsoft Azure for Amazon AWS Cloud Professionals: Networking](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1668)
+* [(Part 3) Microsoft Azure for Amazon AWS Cloud Professionals: Storage](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1669)
+* [(Part 4) Microsoft Azure for Amazon AWS Cloud Professionals: Virtual Machines, VM Scale Sets & Containers](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1670)
+* [(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals: Migrating to Azure](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671)
+
+
 
 ### Useful PDFs
 * [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf)
