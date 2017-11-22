@@ -5,6 +5,12 @@ Feel free to contribute !
 ### Learning and Readiness
 List of usefull links to enable you to learn more about Azure
 
+* [HandsOnLabs] (https://www.microsoft.com/handsonlabs) - Microsoft HandsOnLabs
+* [Microsoft Tech](https://www.microsofttech.com.br/) - Microsoft Tech Blog (PT-BR)
+* [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
+* [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
+* [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - Tracks for your professional development on Data Science, BigData, Frontend Development, Cloud Administration and DevOps
+* [Microsoft DevOps Blog](https://blogs.msdn.microsoft.com/devops/) - Microsoft DevOps Blog
 * [Azure Training](https://azure.microsoft.com/en-us/training/) - Pluralsight free cources, hands-on labs and learning paths for you!
 * [Azure Skills Training](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx) - Free Training!
 * [Microsoft OpenEDX](https://openedx.microsoft.com/) - The OpenEDX from Microsoft
