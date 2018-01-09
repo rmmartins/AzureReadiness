@@ -5,6 +5,7 @@ Feel free to contribute !
 ### Learning and Readiness
 List of usefull links to enable you to learn more about Azure
 
+* [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
 * [Azure Essentials](https://www.microsoft.com/pt-br/azureessentials) - Azure initial steps training
 * [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
 * [HandsOnLabs](https://www.microsoft.com/handsonlabs) - Microsoft HandsOnLabs
