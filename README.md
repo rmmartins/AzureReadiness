@@ -5,7 +5,7 @@ Feel free to contribute !
 ### Learning and Readiness
 List of usefull links to enable you to learn more about Azure
 
-* [Azure Essentials](https://www.microsoft.com/pt-br/azureessentials)
+* [Azure Essentials](https://www.microsoft.com/pt-br/azureessentials) - Azure initial steps training
 * [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
 * [HandsOnLabs](https://www.microsoft.com/handsonlabs) - Microsoft HandsOnLabs
 * [Microsoft Tech](https://www.microsofttech.com.br/) - Microsoft Tech Blog (PT-BR)
