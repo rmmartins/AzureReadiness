@@ -5,16 +5,14 @@ Feel free to contribute !
 ### Learning and Readiness
 List of usefull links to enable you to learn more about Azure
 
+* [The complete guide to the Azure Essentials](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh) - Start watching as a beginner and finish up as the master
 * [HandsOnLabs](https://www.microsoft.com/handsonlabs/SelfPacedLabs#keywords=azure%20&page=1&sort=Newest) - Azure HandsOn Labs
 * [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
 * [Azure Essentials](https://www.microsoft.com/pt-br/azureessentials) - Azure initial steps training
-* [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
-* [HandsOnLabs](https://www.microsoft.com/handsonlabs) - Microsoft HandsOnLabs
 * [Microsoft Tech](https://www.microsofttech.com.br/) - Microsoft Tech Blog (PT-BR)
 * [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
 * [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
 * [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - Tracks for your professional development on Data Science, BigData, Frontend Development, Cloud Administration and DevOps
-* [Microsoft DevOps Blog](https://blogs.msdn.microsoft.com/devops/) - Microsoft DevOps Blog
 * [Azure Training](https://azure.microsoft.com/en-us/training/) - Pluralsight free cources, hands-on labs and learning paths for you!
 * [Azure Skills Training](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx) - Free Training!
 * [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX
@@ -38,6 +36,12 @@ List of usefull links to enable you to learn more about Azure
 * [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
 * [Understanding Azure: A guide for developers](http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf)
 
+### DevOps
+
+* [VSTS Docs](https://docs.microsoft.com/en-us/vsts/index) - Everything that you've ever wanted to know about DevOps and VSTS
+* [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
+* [Microsoft DevOps Blog](https://blogs.msdn.microsoft.com/devops/) - Microsoft DevOps Blog
+* [DevOps @ Microsoft](https://www.visualstudio.com/learn/devopsmsft-overview/) - How we continue to adopt DevOps at Microsoft
 
 ### Architecture
 
