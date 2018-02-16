@@ -5,6 +5,7 @@ Feel free to contribute !
 ### Learning and Readiness
 List of usefull links to enable you to learn more about Azure
 
+* [Microsoft on EDX](https://www.edx.org/school/microsoft) - Free online courses from Microsoft at EDX
 * [Azure Resource Manager: Demystified](https://github.com/krnese/AzureDeploy/tree/master/ARM) - Awesome content and handsonlabs about Azure Resource Manager.
 * [The complete guide to the Azure Essentials](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh) - Start watching as a beginner and finish up as the master
 * [HandsOnLabs](https://www.microsoft.com/handsonlabs/SelfPacedLabs#keywords=azure%20&page=1&sort=Newest) - Azure HandsOn Labs
