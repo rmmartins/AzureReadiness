@@ -1,9 +1,9 @@
 # Azure Readiness Resources
-The purpose of this repo is to serve as a curated list of readiness resources on Microsoft Azure.
+The purpose of this repo is to serve as a curated list of readiness resources on Microsoft Azure. 
+
 Feel free to contribute !
 
 ### Free training and courses
-List of usefull links to enable you to learn more about Azure
 
 * [Microsoft on EDX](https://www.edx.org/school/microsoft) - Free online courses from Microsoft at EDX
 Start watching as a beginner and finish up as the master
