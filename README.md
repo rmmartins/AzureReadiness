@@ -76,6 +76,7 @@ Start watching as a beginner and finish up as the master
 * [(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals: Migrating to Azure](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671)
 
 ### Useful PDFs
+* [From Agile to DevOps at Microsoft Developer Division e-book ](https://www.microsoft.com/en-us/download/details.aspx?id=46920)
 * [Azure Stragedy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
 * [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf)
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
