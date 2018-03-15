@@ -89,6 +89,15 @@ Start watching as a beginner and finish up as the master
 * [Questions to Ask Your Cloud Provider](http://download.microsoft.com/download/F/7/8/F7893E04-633E-45B1-A7F6-CF043715DA5A/Trusted_Cloud_Questions_to_ask_your_Cloud_Provider_EN_US.pdf)
 * [Microsoft Azure & AWS: Cloud Service Map](aka.ms/awsazureguide)
 
+### Azure Free Account
+
+A list of usefull links explaining about the common doubts related to Azure Free Account:
+* [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
+* [https://azure.microsoft.com/en-us/free/free-account-faq/](https://azure.microsoft.com/en-us/free/free-account-faq/)
+* [https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account](https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account)
+* [https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account](https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account)
+
+
 ---
 
 # Let's keep in touch
