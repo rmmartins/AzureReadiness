@@ -40,7 +40,7 @@ Start watching as a beginner and finish up as the master
 * [Resource Manager Template Reference](https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/) - References to ARM Templates
 * [ITProCareerCenter](https://www.itprocareercenter.com) - IT Pro Career Center from Microsoft
 * [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
-
+* [Azure Notes](https://azurenotes.tech/) - A place to know about new features from all Azure Services
 
 ### Video Resources
 
