@@ -90,6 +90,7 @@ Start watching as a beginner and finish up as the master
 * [Questions to Ask Your Cloud Provider](http://download.microsoft.com/download/F/7/8/F7893E04-633E-45B1-A7F6-CF043715DA5A/Trusted_Cloud_Questions_to_ask_your_Cloud_Provider_EN_US.pdf)
 * [Microsoft Azure & AWS: Cloud Service Map](aka.ms/awsazureguide)
 * [Modern Service Management for Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/b6ea597e-2ca2-4bfb-9adc-c8d7292bc81a/Modern%20Service%20Management%20for%20Azure%20v1.1.pdf)
+* [Enterprise Cloud Strategy](https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf)
 
 ### Azure Free Account
 
