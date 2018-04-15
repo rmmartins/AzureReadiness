@@ -27,6 +27,10 @@ Start watching as a beginner and finish up as the master
 * [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
 * [Get started guide for Azure developers](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf) - Get started guide for Azure developers
 * [Azure Onboarding Guide for IT Organizations](https://azure.microsoft.com/mediahandler/files/resourcefiles/d8e7430c-8f62-4bbb-9ca2-f2bc877b48bd/Azure%20Onboarding%20Guide%20for%20IT%20Organizations.pdf)
+* [Azure IaaS Operations Guidance](http://aka.ms/Azure/IaaSOpsGuide) 
+* [Azure Express Route Guide](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureExpressRoute.pdf)
+
+
 
 ### Awesome resources
 
@@ -84,7 +88,6 @@ Start watching as a beginner and finish up as the master
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
 * [Azure Network Security](http://download.microsoft.com/download/C/A/3/CA3FC5C0-ECE0-4F87-BF4B-D74064A00846/AzureNetworkSecurity_v3_Feb2015.pdf)
 * [Defending the new perimeter](https://rmartins.blob.core.windows.net/documentos/DefendingTheNewPerimeter.pdf)
-* [Azure Express Route Guide](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureExpressRoute.pdf)
 * [Microsoft Azure Security Infrastructure](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityInfrastructure.pdf)
 * [Microsoft Azure Security Response in the cloud](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityResponseinthecloud.pdf)
 * [Microsoft Cloud Red Teaming](https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf)
