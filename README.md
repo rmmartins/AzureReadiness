@@ -29,6 +29,8 @@ Start watching as a beginner and finish up as the master
 * [Azure Onboarding Guide for IT Organizations](https://azure.microsoft.com/mediahandler/files/resourcefiles/d8e7430c-8f62-4bbb-9ca2-f2bc877b48bd/Azure%20Onboarding%20Guide%20for%20IT%20Organizations.pdf)
 * [Azure IaaS Operations Guidance](http://aka.ms/Azure/IaaSOpsGuide) 
 * [Azure Express Route Guide](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureExpressRoute.pdf)
+* [Cost Optimization on Azure](https://blogs.msdn.microsoft.com/cloud_solution_architect/2018/02/23/cost-optimization-on-azure/)
+* [Strategies to realizing Cost Savings in Azure](https://blogs.msdn.microsoft.com/girishp/2018/02/22/strategies-to-realizing-cost-savings-in-azure/)
 
 
 
