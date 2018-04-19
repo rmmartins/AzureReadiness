@@ -114,5 +114,5 @@ A list of usefull links explaining about the common doubts related to Azure Free
 
 | Name | Links |
 | ------ | ------ |
-| Ricardo Martins | [http://ricardomartins.com.br] [[@ricardommartins](http://twitter.com/ricardommartins)] |
+| Ricardo Martins | [http://ricardomartins.com.br](http://www.ricardomartins.com.br) [[@ricardommartins](http://twitter.com/ricardommartins)] |
 
