@@ -31,6 +31,7 @@ Start watching as a beginner and finish up as the master
 * [Azure Express Route Guide](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureExpressRoute.pdf)
 * [Cost Optimization on Azure](https://blogs.msdn.microsoft.com/cloud_solution_architect/2018/02/23/cost-optimization-on-azure/)
 * [Strategies to realizing Cost Savings in Azure](https://blogs.msdn.microsoft.com/girishp/2018/02/22/strategies-to-realizing-cost-savings-in-azure/)
+* [Azure DevTest Labs Prescriptive Adoption Guidance](https://github.com/Azure/azure-devtestlab/blob/master/Documentation/Getting%20Started%20with%20DevTest%20Labs.pdf)
 
 
 
