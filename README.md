@@ -63,6 +63,9 @@ Start watching as a beginner and finish up as the master
 * [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
 * [Microsoft DevOps Blog](https://blogs.msdn.microsoft.com/devops/) - Microsoft DevOps Blog
 * [DevOps @ Microsoft](https://www.visualstudio.com/learn/devopsmsft-overview/) - How we continue to adopt DevOps at Microsoft
+* [Microsoft Visual Studio DevOps Hands-On-Labs](https://almvm.azurewebsites.net/)
+* [SmartHotel360 - Reference Sample and Azure Backend](https://github.com/Microsoft/SmartHotel360)
+* [HealthClinic.biz - End-to-end demo scenario based on a fictitious B2B and multitenant system](https://github.com/Microsoft/HealthClinic.biz)
 
 ### Architecture
 
