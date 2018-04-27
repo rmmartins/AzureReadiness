@@ -49,6 +49,7 @@ Start watching as a beginner and finish up as the master
 * [ITProCareerCenter](https://www.itprocareercenter.com) - IT Pro Career Center from Microsoft
 * [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
 * [Azure Notes](https://azurenotes.tech/) - A place to know about new features from all Azure Services
+* [Azure Documentation Updates](http://azuredocsupdates.azurewebsites.net/) - A community project to share the status about azure documentation updates
 
 ### Video Resources
 
