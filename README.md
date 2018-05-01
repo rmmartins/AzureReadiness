@@ -50,6 +50,7 @@ Start watching as a beginner and finish up as the master
 * [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
 * [Azure Notes](https://azurenotes.tech/) - A place to know about new features from all Azure Services
 * [Azure Documentation Updates](http://azuredocsupdates.azurewebsites.net/) - A community project to share the status about azure documentation updates
+* [Last week in Azure](https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/) - A place to get updated weekly about the Azure announcements.
 
 ### Video Resources
 
