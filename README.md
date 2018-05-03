@@ -56,6 +56,7 @@ Start watching as a beginner and finish up as the master
 * [Last week in Azure](https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/) - Keep current on what's happening in Azure, including what's now in preview, generally available, news & updates, and more.
 * [Governance in Azure](https://docs.microsoft.com/en-us/azure/security/governance-in-azure) - Informations about Azure Governance
 * [Best practices Using Azure Resource Manager Templates](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/) - Best practices Using Azure Resource Manager Templates
+* [Azure Availability Zones Quick Tour and Guide](https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/) - Azure Availability Zones Quick Tour and Guide
 
 ### Video Resources
 
