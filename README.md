@@ -5,9 +5,12 @@ Feel free to contribute !
 
 ### Free training and courses
 
+* [Azure Learning Paths](https://azure.microsoft.com/en-us/training/learning-paths/) - Follow a guided learning path
 * [Microsoft on EDX](https://www.edx.org/school/microsoft) - Free online courses from Microsoft at EDX
 Start watching as a beginner and finish up as the master
-* [HandsOnLabs](https://www.microsoft.com/handsonlabs/SelfPacedLabs#keywords=azure%20&page=1&sort=Newest) - Azure HandsOn Labs
+* [Azure Hands-on Labs](https://azure.microsoft.com/pt-br/training/hands-on-labs/) - Azure Hands-on Labs
+* [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs) - Microsoft Hands-on Labs
+* [Microsoft Self Passed Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) - Microsoft Self Passed Labs
 * [Azure Essentials](https://www.microsoft.com/pt-br/azureessentials) - Azure initial steps training
 * [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
 * [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
