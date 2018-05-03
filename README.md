@@ -52,6 +52,7 @@ Start watching as a beginner and finish up as the master
 * [Azure Documentation Updates](http://azuredocsupdates.azurewebsites.net/) - A community project to share the status about azure documentation updates
 * [Last week in Azure](https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/) - Keep current on what's happening in Azure, including what's now in preview, generally available, news & updates, and more.
 * [Governance in Azure](https://docs.microsoft.com/en-us/azure/security/governance-in-azure) - Informations about Azure Governance
+* [Best practices Using Azure Resource Manager Templates](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/) - Best practices Using Azure Resource Manager Templates
 
 ### Video Resources
 
