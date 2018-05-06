@@ -40,6 +40,7 @@ Start watching as a beginner and finish up as the master
 
 ### Awesome resources
 
+* [Azure Networking Lab](https://github.com/erjosito/azure-networking-lab) - Lab resources about Azure Networking
 * [Azure Resource Manager: Demystified](https://github.com/krnese/AzureDeploy/tree/master/ARM) - Awesome content and handsonlabs about Azure Resource Manager.
 * [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates) - Github Repo with usefull Azure templates
 * [Microsoft Tech](https://www.microsofttech.com.br/) - Microsoft Tech Blog (PT-BR)
@@ -67,6 +68,7 @@ Start watching as a beginner and finish up as the master
 
 ### DevOps
 
+* [DevOps Resource Center](https://docs.microsoft.com/en-us/azure/devops/) -  Resources on learning DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft, and how you can assess your own DevOps progression.
 * [VSTS Docs](https://docs.microsoft.com/en-us/vsts/index) - Everything that you've ever wanted to know about DevOps and VSTS
 * [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
 * [Microsoft DevOps Blog](https://blogs.msdn.microsoft.com/devops/) - Microsoft DevOps Blog
