@@ -23,26 +23,23 @@ Start watching as a beginner and finish up as the master
 * [Microsoft Virtual Academy (Visual Studio Courses)](https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033)
 * [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
 
-### Azure Workshops
+### Azure Workshops | Demos | Labs 
 
 * [Terraform on Azure](https://azurecitadel.github.io/workshops/terraform/)
 * [Dozen of Azure Workshops](https://azurecitadel.github.io/workshops/)
-
-### Azure Demos
-
 * [Dozen of Azure Demos](https://azurecitadel.github.io/demos/)
-
-### Azure Labs
-
 * [Dozen of Azure Labs](https://azurecitadel.github.io/labs/)
+* [Azure CAT](https://github.com/AzureCAT-GSI)
+* [Azure enablement with Terraform and focuses on core basics](https://github.com/FraserPol/azure-workshop-training)
+* [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/Araffe/azure-security-lab)
+* [Azure Management and Monitoring Lab](https://github.com/Araffe/Azure-Monitoring-Lab)
+* [Azure Virtual Data Centre Lab](https://github.com/Araffe/vdc-networking-lab)
+* [Azure DevCamp](https://github.com/Azure-Readiness/DevCamp/)
+
 
 ### Azure Guides
 
 * [Dozen of Azure Guides](https://azurecitadel.github.io/guides/)
-
-
-### Azure Guides
-
 * [Understanding Azure: A guide for developers](http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf)
 * [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
 * [Get started guide for Azure developers](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf) - Get started guide for Azure developers
