@@ -23,6 +23,23 @@ Start watching as a beginner and finish up as the master
 * [Microsoft Virtual Academy (Visual Studio Courses)](https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033)
 * [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
 
+### Azure Workshops
+
+* [Terraform on Azure](https://azurecitadel.github.io/workshops/terraform/)
+* [Dozen of Azure Workshops](https://azurecitadel.github.io/workshops/)
+
+### Azure Demos
+
+* [Dozen of Azure Demos](https://azurecitadel.github.io/demos/)
+
+### Azure Labs
+
+* [Dozen of Azure Labs](https://azurecitadel.github.io/labs/)
+
+### Azure Guides
+
+* [Dozen of Azure Guides](https://azurecitadel.github.io/guides/)
+
 
 ### Azure Guides
 
