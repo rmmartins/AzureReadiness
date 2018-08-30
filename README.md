@@ -102,7 +102,7 @@ Start watching as a beginner and finish up as the master
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [Introduction to Microsoft Azure accounts, platform, and services for AWS experts](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/index) - Azure for AWS experts
 * [Azure for AWS Professionals - Learning Path](https://azure.microsoft.com/en-us/training/learning-paths/azure-for-aws-professional/) - Learning path for AWS Professionals
-* [Microsoft Azure for AWS Experts - EDX Course](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/about) - EDX Free Training
+* [Microsoft Azure for AWS Experts - EDX Course](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/) - EDX Free Training
 * [Azure for AWS Professionals](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [(Part 1) Microsoft Azure for Amazon AWS Cloud Professionals: Getting Started](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1667)
