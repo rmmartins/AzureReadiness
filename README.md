@@ -15,8 +15,9 @@ Start watching as a beginner and finish up as the master
 * [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
 * [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
 * [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - Tracks for your professional development on Data Science, BigData, Frontend Development, Cloud Administration and DevOps
-* [Azure Training](https://azure.microsoft.com/en-us/training/) - Pluralsight free cources, hands-on labs and learning paths for you!
-* [Azure Skills Training](https://www.microsoft.com/en-us/learning/azure-skills-training.aspx) - Free Training!
+* [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/) - Unlock your cloud skills in minutes
+* [Azure Free Trainings at Pluralsight](http://pluralsight.com/partners/microsoft/azure) - Free trainings for Azure from Pluralsight and Microsoft
+* [Azure Certification and Trainings](https://www.microsoft.com/en-us/learning/azure-training.aspx) - Azure Certification and Trainings
 * [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX
 * [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
 * [Microsoft Virtual Academy (Azure Courses)](https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033)
